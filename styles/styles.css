@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&family=Roboto:wght@400;500;700&display=swap');
+body{
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: 1300px;
+    margin: 0 auto;
+    padding: 0;
+}
+header{
+    background-color: rgb(20, 186, 223);
+}
+h1{
+    text-align: center;
+    line-height: 48px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.wref{ 
+    position: absolute;
+    text-align: center;
+    font-size: 1rem;
+    margin-left: 250px;
+    top: 490px;
+}
+a:hover{
+    color:rgb(20, 186, 223);
+    transition: .5s;
+}
+.h2{
+   padding-left: 100px; 
+   padding-top: 347px;
+   font-size: 1rem;
+}
+.drop2{
+margin-left: 100px;}
+img{
+    max-width: 100%;
+}
+
